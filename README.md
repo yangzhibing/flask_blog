@@ -1,23 +1,2 @@
 "# flask_blog" 
-Flask´ÓÈëÃÅµ½×ö³öÒ»¸ö²©¿ÍµÄ´óÐÍ½Ì³Ì
-flask/
-©À©¤©¤ app
-©¦   ©À©¤©¤ forms.py
-©¦   ©À©¤©¤ __init__.py
-©¦   ©À©¤©¤ models.py
-©¦   ©À©¤©¤ routes.py
-©¦   ©¸©¤©¤ templates
-©¦       ©À©¤©¤ base.html
-©¦       ©À©¤©¤ index.html
-©¦       ©À©¤©¤ login.html
-©¦       ©À©¤©¤ register.html
-©¦       ©¸©¤©¤ test.html
-©À©¤©¤ config.py
-©À©¤©¤ migrations
-©¦   ©À©¤©¤ alembic.ini
-©¦   ©À©¤©¤ env.py
-©¦   ©À©¤©¤ README
-©¦   ©À©¤©¤ script.py.mako
-©¦   ©¸©¤©¤ versions
-©¦       ©À©¤©¤ 063e1979f08c_questions.py
-©À©¤©¤ question.py
+ç½‘ä¸Šçœ‹äº†å¾ˆå¤šæ•™ç¨‹ï¼Œéƒ½ä¸æ˜¯å¾ˆæ»¡æ„ï¼Œå› æ­¤è‡ªå·±å†™ä¸€ä¸ªå¤§åž‹æ•™ç¨‹ï¼Œä»Žå…¥é—¨åˆ°åšå‡ºä¸€ä¸ªæ¯”è¾ƒå®Œæ•´çš„åšå®¢ã€‚æ­¤æ¬¡æ•™ç¨‹ä¸æ˜¯ç›´æŽ¥æŠŠæ•´ä¸ªåšå®¢ç›´æŽ¥ä»£ç æ•´ç†å‡ºæ¥ç„¶åŽè¿è¡Œä¸€éå°±å®Œäº‹ï¼Œæˆ‘ä¼šä»Žflaskçš„å„ä¸ªæ¨¡å—è®²èµ·ã€‚æ‰€ä»¥ï¼Œå¦‚æžœä½ æ²¡æœ‰æŽ¥è§¦è¿‡flaskï¼ŒæŒ‰ç…§æ•´ä¸ªæ•™ç¨‹å®Œæ•´åšä¸€éä¼šæŽŒæ¡flaskã€‚(å‰ææ˜¯ä½ è¦æœ‰ä¸€å®šPythonå’ŒwebåŸºç¡€)
