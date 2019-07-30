@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29c8c43a-fbf3-4bc0-a4d1-8eb67474f51d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/edit_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/19072d466f00_user增加新的字段.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/90f704ea7ce7_posts_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/c39b15844bef_users_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myblog.py" afterDir="false" />
-    </list>
+    <list default="true" id="29c8c43a-fbf3-4bc0-a4d1-8eb67474f51d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,8 +91,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="220" />
-    <option name="y" value="29" />
+    <option name="x" value="17" />
+    <option name="y" value="26" />
     <option name="width" value="1655" />
     <option name="height" value="898" />
   </component>
@@ -285,7 +259,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="29" width="1655" height="898" extended-state="1" />
+    <frame x="220" y="29" width="1655" height="898" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12183055" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
